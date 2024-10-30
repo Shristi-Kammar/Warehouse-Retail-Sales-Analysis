@@ -4,7 +4,7 @@
 This repository contains a **Power BI dashboard** designed to analyze warehouse and retail sales data. The dashboard provides comprehensive insights into sales trends, supplier contributions, and item types, enabling data-driven decisions for inventory management, supplier relationships, and sales strategies. The data used for this analysis is sourced from [data.gov](https://data.gov), ensuring reliability and up-to-date information.
 
 ## DASHBOARD PREVIEW
-![Warehouse & Rtail Sales Dashboard](./dashboard_screenshot.png)
+![Warehouse & Rtail Sales Dashboard](https://github.com/Shristi-Kammar/Warehouse-Retail-Sales-Analysis/blob/main/Screenshot%202024-07-11%20165554.png)
 
 ## 📊 Dashboard Features
 
